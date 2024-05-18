@@ -22,6 +22,7 @@ Each of the following project steps is completed in a separate notebook:
 - [Final Report](https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/final_report.pdf): `final_report.pdf`
 
 <a name="Dashboard"></a>
+## Dashboard
 <img src="https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/dashboard.jpeg" width="550" height="300">
 
 <a name="Authors"></a>
