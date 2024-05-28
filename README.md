@@ -16,7 +16,7 @@ This analysis will leverage SQL and Tableau to extract, analyze, and visualize d
 <a name="FileStructure"></a>
 ## File Structure
 Each of the following project steps is completed in a separate notebook:
-- [Database](https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/database.sql): `dashboard.sql`
+- [Data Base](https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/database.sql): `dashboard.sql`
 - [SQL Scripts](https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/sql_scrpits.sql): `sql_scrpits.sql`
 - [Tableau Dashboard](https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/dashboard.twbx): `dashboard.twbx`
 - [Final Report](https://github.com/YimingZ13/Customer_Engagement_Analysis_SQL_Tableau/blob/main/final_report.pdf): `final_report.pdf`
