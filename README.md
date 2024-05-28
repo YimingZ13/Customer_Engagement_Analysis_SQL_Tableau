@@ -1,4 +1,4 @@
-# Customer_Engagement_Analysis_SQL_Tableau
+# Student_Engagement_Analysis_SQL_Tableau
 
 ## Table of Contents
 1. [Introduction](#Introduction)
@@ -9,7 +9,7 @@
 
 <a name="Introduction"></a>
 ## Introduction
-In the rapidly evolving landscape of online education, understanding customer engagement is paramount to delivering a high-quality learning experience. The 365 Data Science platform, a comprehensive online learning environment dedicated to data science education, aims to equip learners with essential skills through a robust curriculum. To ensure that our learners are not only enrolling but also actively engaging with the content, it is crucial to perform a thorough analysis of customer engagement metrics.
+In the rapidly evolving landscape of online education, understanding student engagement is paramount to delivering a high-quality learning experience. The 365 Data Science platform, a comprehensive online learning environment dedicated to data science education, aims to equip learners with essential skills through a robust curriculum. To ensure that our learners are not only enrolling but also actively engaging with the content, it is crucial to perform a thorough analysis of customer engagement metrics.
 
 This analysis will leverage SQL and Tableau to extract, analyze, and visualize data, providing insights into how users interact with the platform. SQL will be used to build/query the database and retrieve relevant engagement data, such as course watched, time spent, subscription plans, and registration information etc. on the platform. Tableau will then be employed to create interactive dashboards and visualizations, enabling a clear and comprehensive understanding of user behavior and engagement patterns.
 
